@@ -2,15 +2,11 @@
 
 **`Analista de Qualidade de Software`**
 
+Sou Analista de QA focado em garantir a qualidade de software por meio de automação e testes manuais, atuando em projetos que demandam eficiência, robustez e agilidade.
 
 ## 🧠 Sobre mim
-Sou Analista de Qualidade de Software com foco em garantir entregas consistentes e eficientes por meio de testes automatizados e manuais. Atuo em projetos que exigem alta performance, estabilidade e ciclos de entrega ágeis, contribuindo diretamente para a confiabilidade do produto.
-Tenho experiência sólida na implementação e manutenção de testes automatizados para aplicações web e mobile, além de realizar testes manuais exploratórios e funcionais sempre que necessário.
-Também atuo na validação de APIs REST, tanto com testes manuais (Postman, Insomnia) quanto com automações utilizando ferramentas como Robot Framework, Cypress e K6 para testes de carga.
+Tenho experiência sólida na criação e manutenção de testes automatizados para aplicações web e mobile, sempre buscando entregar produtos confiáveis e funcionais. Trabalho em ambientes ágeis, colaborando com times multidisciplinares para assegurar a melhor experiência para o usuário final.
 
-Participo ativamente na escrita de cenários de testes claros e objetivos, utilizando critérios de aceitação bem definidos, e colaboro com equipes multidisciplinares em ambientes ágil/scrum, com foco na entrega contínua e melhoria constante da qualidade.
-
-Sempre busco aliar boa comunicação com visão técnica, garantindo que a qualidade seja parte do processo desde a concepção da ideia até a entrega final.
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -38,7 +34,7 @@ Sempre busco aliar boa comunicação com visão técnica, garantindo que a quali
   <img alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 </div>
 
-><br/>
+<br/>
 
 ## 🚀 Minha abordagem profissional
 Valorizo uma visão ampla do produto para aplicar as melhores práticas em qualidade desde o planejamento até a entrega.
@@ -56,6 +52,9 @@ Atuação direta em squads ágeis, trabalhando lado a lado com desenvolvedores e
 ## 🙌 Obrigado por visitar meu perfil!
 Estou aberto a novas oportunidades, parcerias e troca de conhecimentos na área de qualidade de software.
 
-📎 LinkedIn
+<a href="https://www.linkedin.com/in/joão-pedro-parazzi-544a301b8/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <img alt="LinkedIn" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
 📧 joaopparazzi@gmail.com
 
