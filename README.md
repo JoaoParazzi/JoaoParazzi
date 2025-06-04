@@ -8,7 +8,7 @@
 
 
 <div class="container">
-  <h1 id="title">👩🏻‍💻 Olá, eu sou João Pedro Parazzi 👋</h1>
+  <h1 id="title">👨‍💻 Olá, eu sou João Pedro Parazzi 👋</h1>
 
   <p id="intro">Sou Analista de QA focado em garantir a qualidade de software por meio de automação e testes manuais, atuando em projetos que demandam eficiência, robustez e agilidade.</p>
 
