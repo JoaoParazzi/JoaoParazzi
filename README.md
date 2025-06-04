@@ -96,27 +96,6 @@
   footer a:hover {
     text-decoration: underline;
   }
-
-  /* Botão de idioma */
-  .language-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    background: #3498db;
-    border: none;
-    color: white;
-    padding: 10px 16px;
-    border-radius: 25px;
-    font-size: 1rem;
-    cursor: pointer;
-    box-shadow: 0 3px 10px rgba(52, 152, 219, 0.6);
-    transition: background-color 0.3s ease;
-    z-index: 1000;
-  }
-
-  .language-toggle:hover {
-    background: #2980b9;
-  }
 </style>
 </head>
 <body>
