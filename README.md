@@ -13,8 +13,8 @@ Tenho experiência sólida na criação e manutenção de testes automatizados p
 </br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img alt="Cypress.io" title="Cypress.io" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Robot Framework" title="Robot Framework" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/374049/robotframework.svg" />
+  <img alt="Cypress.io" title="Cypress.io" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Appium" title="Appium" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/353413/appium.svg" />
   <img alt="Android Studio" title="Android Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" />
   <img alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
