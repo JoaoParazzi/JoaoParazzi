@@ -7,14 +7,14 @@ I’m a QA Analyst focused on ensuring software quality through both automation 
 I have solid experience in designing and maintaining automated tests for web and mobile applications, always striving to deliver reliable and functional products.
 I work in agile environments, collaborating with cross-functional teams to ensure the best possible experience for end users.
 
-##🤖 Languages & Technologies
+## 🤖 Languages & Technologies
 Robot Framework • Cypress.io • Appium • Android Studio • Postman • Swagger • Mocha • K6 • Git • Python • Selenium • MySQL • Linux • JIRA • Maestro.dev • HTML • CSS • JavaScript • JQuery
 
-##🚀 My Professional Approach
+## 🚀 My Professional Approach
 I value a broad understanding of the product to apply best practices in quality from planning to delivery.
 I believe in the importance of clear documentation, active communication, and continuous integration between teams to foster excellence in development.
 
-##🏆 Key Achievements & Experience
+## 🏆 Key Achievements & Experience
 
 Development of custom automation frameworks for diverse scenarios and technologies.
 
@@ -24,8 +24,10 @@ Execution of load testing using K6 for critical systems, contributing to perform
 
 Active participation in agile squads, collaborating closely with developers and product owners to ensure product success.
 
-##🙌 Thanks for visiting my profile!
+## 🙌 Thanks for visiting my profile!
 I’m open to new opportunities, collaborations, and knowledge sharing in the field of software quality assurance.
+
+##
 
 ## 👩🏻‍💻 Olá, eu sou João Pedro Parazzi 👋
 
