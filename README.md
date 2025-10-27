@@ -1,9 +1,9 @@
-##👩🏻‍💻 Hello, I’m João Pedro Parazzi 👋
+## 👩🏻‍💻 Hello, I’m João Pedro Parazzi 👋
 Software Quality Assurance Analyst
 
 I’m a QA Analyst focused on ensuring software quality through both automation and manual testing, working on projects that demand efficiency, robustness, and agility.
 
-##🧠 About Me
+## 🧠 About Me
 I have solid experience in designing and maintaining automated tests for web and mobile applications, always striving to deliver reliable and functional products.
 I work in agile environments, collaborating with cross-functional teams to ensure the best possible experience for end users.
 
